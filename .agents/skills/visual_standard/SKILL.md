@@ -1,8 +1,12 @@
+---
+name: visual-standard
+description: Reference for maintenance, styling, and creation of pages under the Rede Salomão design standard.
+---
+
 # Rede Salomão - Padrão Visual e Diretrizes de Design
 
 Este documento serve como referência de design (Skill) para a manutenção, reestilização e criação de novas páginas no site da Rede Salomão (Residencial Terapêutico, Residência Inclusiva e Adestramento).
 
----
 
 ## 1. Arquitetura de Layout das Páginas
 
